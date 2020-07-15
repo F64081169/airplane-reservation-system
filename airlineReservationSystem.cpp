@@ -27,7 +27,7 @@ int main()
     while(leave_or_not)
     {
 
-        cout<<"\n\n\n*** Welcome to NCU airline reservation system ***\n";
+        cout<<"\n\n\n*** Welcome to ABC airline reservation system ***\n";
         cout<<"====================================================\n";
 
 
@@ -45,12 +45,12 @@ int main()
         if(num==1)
         {
 
-               cout<<"Please enter passenger¡¦s first name: ";
+               cout<<"Please enter passengerÂ¡Â¦s first name: ";
                cin>>firstname[a];
-               cout<<"Please enter passenger¡¦s last name: ";
+               cout<<"Please enter passengerÂ¡Â¦s last name: ";
                cin>>lastname[a];
 
-               cout<<"Please enter passenger¡¦s DOB: ";
+               cout<<"Please enter passengerÂ¡Â¦s DOB: ";
                cin>>DOB[a];
                while(1)
                 {
@@ -89,7 +89,7 @@ int main()
                       }
 
 
-               cout<<"Please enter passenger¡¦s passport number: ";
+               cout<<"Please enter passengerÂ¡Â¦s passport number: ";
                cin>>passportnumber[a];
                cout<<"Please type 1 for First Class \n";
                cout<<"Please type 2 for Economy Class: ";
